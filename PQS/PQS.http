@@ -1,0 +1,6 @@
+@PQS_HostAddress = http://localhost:5218
+
+GET {{PQS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
